@@ -3,7 +3,7 @@ As a Liverpool fan, I am very tired of Man City winning.
 So, I decided to build a twitter bot that posts daily celebrations of their greatest losses in history. 
 The goal is to slowly gaslight myself into thinking they are bad, and then maybe I will be able to happily watch the premier league again.
 
-[View the twitter account here](link) 👈
+[View the twitter account here](https://twitter.com/MGas56832) 👈
 
 ## Overview
 I uploaded a CSV file with results from every Premier League game in history to an AWS-hosted MySQL database. 
