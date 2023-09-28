@@ -1,6 +1,6 @@
 # Man City Gaslighting Bot
 As a Liverpool fan, I am very tired of Man City winning. 
-So, I decided to build a twitter bot that posts daily celebrations of their greatest losses in history. 
+So, I decided to build a twitter bot that posts daily celebrations of Man City's greatest losses in history. 
 The goal is to slowly gaslight myself into thinking they are bad, and then maybe I will be able to happily watch the premier league again.
 
 [View the twitter account here](https://twitter.com/MGas56832) 👈
